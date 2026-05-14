@@ -1,0 +1,8 @@
+services:
+  mongo:
+    image: mongo
+    ports:
+      - "80:80"
+    volumes:
+      - "./mongo:/data/db"
+    restart: always
