@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+header{
+    h1{
+    size: large;
+    color: blue;
+    font-family: arial;
+    text-align: center;    
+    }
+
+}
